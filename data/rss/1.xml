@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<rss version="2.0">
+<channel>
+<title>html</title>
+<link>http://localhost/a/html/</link>
+<description>html</description>
+<language>zh-cn</language>
+<generator><![CDATA[Copyright &amp;copy; 2004-2011 DEDECMS. 织梦科技 版权所有]]></generator>
+<webmaster>desdev@vip.qq.com</webmaster>
+<item>
+    <title><![CDATA[ssssssssssss]]></title>
+    <link>http://localhost/a/html/2015/1001/1.html</link>
+    <description><![CDATA[sssssssssssssss]]></description>
+    <pubDate>2015-10-01</pubDate>
+    <category>html</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+
+</channel>
+</rss>
